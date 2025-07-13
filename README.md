@@ -9,7 +9,7 @@ A Key Syestem Black-Market Acces
 
 # item
 qb-core/shared/item.lua
-['blackmarket_key'] = {
+`['blackmarket_key'] = {
     name = 'blackmarket_key',
     label = 'Black Market Key',
     weight = 100,
@@ -20,4 +20,4 @@ qb-core/shared/item.lua
     shouldClose = true,
     combinable = nil,
     description = 'A suspicious key used to access the black market'
-},
+}, `
