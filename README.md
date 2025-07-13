@@ -7,8 +7,7 @@ A Key Syestem Black-Market Acces
     'qs-inventory or qb-inventory'
     'progressbar'
 
-# item
-qb-core/shared/item.lua
+# qb-core/shared/item.lua
 `['blackmarket_key'] = {
     name = 'blackmarket_key',
     label = 'Black Market Key',
